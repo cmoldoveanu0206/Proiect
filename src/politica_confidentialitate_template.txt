@@ -1,0 +1,113 @@
+Politica de confidentialitate
+
+Confidentialitatea datelor dumneavoastra cu caracter personal reprezinta una dintre preocuparile principale ale {Denumire_Firma}, cu sediul in Splaiul Unirii nr. 49 sector 3 Bucuresti, in calitate de operator de date.
+Acest document are rolul de a va informa cu privire la prelucrarea datelor dumneavoastra cu caracter personal, in contextul utilizarii paginii de internet {URL_Site_Firma}, la care ne vom referi in continuare cu denumirea „site-ul”.
+
+Cuprins:
+
+1. Categoriile de date cu caracter personal prelucrate
+2. Scopurile si temeiurile prelucrarii
+3. Durata pentru care va prelucram datele
+4. Dezvaluirea datelor cu caracter personal
+5. Transferul datelor cu caracter personal
+6. Drepturile de care beneficiati
+7. Confidentialitatea minorilor
+8. Modificari in politica de confidentialitate
+
+1. Categoriile de date cu caracter personal prelucrate
+A. Daca sunteti client al site-ului {URL_Site_Firma} , {Denumire_Firma} va prelucra datele dumneavoastra cu caracter personal, cum ar fi:
+
+· Nume si prenume
+· Numar de telefon
+· Adresa de e-mail
+· Adresa de facturare
+· Adresa de livrare
+· Date referitoare la modul in care utilizati site-ul (de exemplu, comportamentul /preferintele /obisnuintele dumneavoastra in cadrul domeniului)
+· Precum si orice alte categorii de date pe care le furnizati in mod direct in contextul crearii contului de utilizator, in contextul plasarii unei comenzi prin intermediul site-ului sau in orice alt mod care rezulta din utilizarea site-ului.
+
+Daca pentru a va crea cont de utilizator pe site, utilizati contul dumneavoastra de Facebook sau Google, {Denumire_Firma} va prelucra urmatoarele date publice de profil afisate de aplicatiile respective: nume utilizator, adresa de e-mail.
+
+In cazul in care alegeti sa va creati cont de utilizator doar inainte de a finaliza rezervarea unui produs disponibil pe site, se va solicita adresa dumneavoastra de e-mail in baza careia va fi creat automat un cont.
+
+In cazul in care nu finalizati comanda, adresa de e-mail si celelalte date furnizate nu vor fi stocate de {Denumire_Firma}, iar contul creat va fi sters automat.
+
+B. Daca sunteti vizitator al site-ului {URL_Site_Firma}, {Denumire_Firma} va prelucra datele dumneavoastra cu caracter personal pe care le furnizati:
+· In mod direct in contextul utilizarii site-ului, cum ar fi datele pe care le furnizati in cadrul sectiunii de contact / intrebari / reclamatii, in masura in care ne contactati in acest fel
+· In mod indirect, date precum: adresa IP, browser folosit, durata navigarii, istoricul cautarilor, sistem de operare folosit, limba si pagini vizualizate, URL-uri complete, secventa de click-uri catre, prin si de la site-ul nostru, informatii sau produse vizualizate / cautate, durata vizitelor pe anumite pagini, informatii privind interactiunea cu paginile (ex. derularea, click-urile, trecerile de mouse), date despre comportamentul utilizatorilor.
+
+2. Scopurile si temeiurile de prelucrarii
+A. Daca sunteti client al site-ului, {Denumire_Firma} prelucreaza datele dumneavoastra cu caracter personal astfel:
+· pentru desfasurarea relatiei contractuale dintre dumneavoastra si {Denumire_Firma}, respectiv pentru preluarea, validarea, expedierea si facturarea comenzii plasate pe site, informarea dumneavoastra asupra starii comenzii, organizarea returului de produse comandate etc.
+
+Prelucrarea datelor dumneavoastra in acest scop are la baza contractul incheiat intre dumneavoastra si {Denumire_Firma}, definit in cuprinsul Termenelor si Conditiilor {URL_Site_Firma}/termeni-si-conditii/. Furnizarea datelor dumneavoastra cu caracter personal este necesara pentru executarea acestui contract. Refuzul furnizarii datelor poate avea drept consecinta imposibilitatea derularii raporturilor contractuale dintre dumneavoastra si {Denumire_Firma}.
+· pentru indeplinirea obligatiilor legale ce revin {Denumire_Firma} in contextul serviciilor prestate prin intermediul site-ului, inclusiv a obligatiilor in materie fiscala, precum si in materie de arhivare.
+
+Prelucrarea datelor dumneavoastra pentru acest scop este necesara in baza unor obligatii legale. Furnizarea datelor dumneavoastra in acest scop este necesara. Refuzul furnizarii datelor poate avea drept consecinta imposibilitatea {Denumire_Firma} de a respecta obligatiile legale care ii revin si deci in imposibilitatea de a va oferi serviciile prin intermediul site-ului.
+· pentru activitati de marketing, respectiv pentru transmiterea, prin intermediul mijloacelor de comunicare la distanta (e-mail, sms) de comunicari comerciale privind produsele si serviciile oferite de {Denumire_Firma}, prin intermediul site-ului.
+
+Prelucrarea datelor dumneavoastra pentru acest scop are la baza consimtamantul dumneavoastra, daca alegeti sa-l furnizati.
+Va puteti exprima consimtamantul pentru prelucrarea datelor in acest scop prin bifarea casutei corespunzatoare de la momentul crearii contului, sau ulterior crearii contului, la sectiunea informatiile contului meu.
+Pentru dezabonarea de la primirea unor astfel de comunicari comerciale puteti folosi optiunea de la finalul fiecarui e-mail/ sms continand comunicari comerciale. In plus, puteti sa va dezabonati prin accesarea sectiunii „Informatiile contului meu”. 
+Furnizarea datelor dumneavoastra in acest scop este voluntara. Refuzul furnizarii consimtamantului pentru prelucrarea datelor dumneavoastra in acest scop nu va avea urmari negative pentru dumneavoastra.
+· in scopul efectuarii diverselor analize, raportari privind modul de functionare a site-ului, realizarea de profiluri de preferinte de consum, in principal, in vederea imbunatatiri experientei oferite pe site.
+
+Prelucrarea datelor dumneavoastra pentru acest scop are la baza interesul legitim al {Denumire_Firma} de a imbunatati permanent experienta clientilor pe site. Furnizarea datelor dumneavoastra in acest scop este voluntara. Refuzul furnizarii datelor pentru acest scop nu va avea urmari negative pentru dumneavoastra.
+
+B. Daca sunteti vizitator al site-ului, [detinatorul website-ului] prelucreaza datele dumneavoastra cu caracter personal astfel:
+· pentru activitati de marketing, respectiv pentru transmiterea, prin intermediul mijloacelor de comunicare la distanta (e-mail, sms), de comunicari comerciale privind produsele si serviciile oferite de [detinatorul website-ului], prin intermediul site-ului.
+
+Prelucrarea datelor dumneavoastra pentru acest scop are la baza consimtamantul dumneavoastra, daca alegeti sa-l furnizati.
+Va puteti exprima consimtamantul pentru prelucrarea datelor in acest scop prin completarea si bifarea casutei corespunzatoare din formularul pentru abonarea la newsletter disponibil pe site.
+Pentru dezabonarea de la primirea unor astfel de comunicari comerciale puteti folosi optiunea de la finalul fiecarui e-mail/ sms continand comunicari comerciale.
+Furnizarea datelor dumneavoastra in acest scop este voluntara. Refuzul furnizarii consimtamantului pentru prelucrarea datelor dumneavoastra in acest scop nu va avea urmari negative pentru dumneavoastra.
+· pentru rezolvarea plangerilor, reclamatiilor si pentru a monitoriza traficul si a imbunatati experienta dumneavoastra oferita pe site.
+
+Prelucrarea datelor dumneavoastra pentru acest scop are la baza interesul legitim al {Denumire_Firma} de a asigura functionarea corecta a site-ului, precum si pentru a imbunatati permanent experienta vizitatorilor site-ului, inclusiv prin solutionarea diferitelor comentarii, intrebari sau reclamatii.
+Furnizarea datelor dumneavoastra in acest scop este voluntara. Refuzul furnizarii datelor pentru acest scop nu va avea urmari negative pentru dumneavoastra.
+
+3. Durata pentru care va prelucram datele
+{Denumire_Firma} va prelucra datele dumneavoastra cu caracter personal atat cat este necesar pentru realizarea scopurilor de prelucrare mentionate mai sus.
+In cazul in care sunteti client, vom prelucra datele dumneavoastra pe intreaga durata a raporturilor contractuale si ulterior conform obligatiilor legale care revin in sarcina {Denumire_Firma} (de ex, in cazul documentelor justificative financiar-contabile pentru care termenul de pastrare prevazut de lege este de 10 ani de la data incheierii exercitiului financiar in cursul caruia au fost intocmite).
+In situatia in care sunteti client si va exercitati optiunea de stergere a contului de utilizator, prin apasarea butonul „stergere cont” din sectiunea „informatiile contului meu”, {Denumire_Firma} va interpreta aceasta actiune ca optiunea dumneavoastra de a va dezabona de la primirea de comunicari comerciale prin care va tinem la curent despre produsele si serviciile oferite prin intermediul site-ului.
+In acest sens, daca alegeti sa va stergeti contul de utilizator, nu va vom mai trimite e-mailuri si / sau sms-uri de acest gen.
+Totusi, dorim sa va informam ca stergerea contului nu va avea ca efect automat stergerea datelor dumneavoastra cu caracter personal.
+In cazul in care doriti sa nu va mai fie prelucrate datele cu caracter personal sau daca doriti stergerea datelor, va puteti exercita drepturile detaliate la punctul 6 de mai jos.
+In cazul in care solicitati stergerea contului, insa pe acel cont exista cel putin o comanda activa, cererea de stergere a contului va putea fi inregistrata numai dupa livrarea produselor si finalizarea ultimei comenzi active.
+Daca va retrageti consimtamantul pentru prelucrarea datelor in scop de marketing, {Denumire_Firma} va inceta prelucrarea datelor dumneavoastra cu caracter personal in acest scop, fara insa a afecta prelucrarile desfasurate de {Denumire_Firma} pe baza consimtamantului exprimat de catre dumneavoastra inainte de retragerea acestuia.
+
+4. Dezvaluirea datelor cu caracter personal
+Nu inchiriem / vindem datele dumneavoastra cu caracter personal catre terte parti.
+Pe langa operator, in anumite situatii, datele pot fi accesibile pentru terte parti precum furnizori de servicii, operatori de transport, furnizori de hosting, companii IT, numite, daca este necesar, ca persoane imputernicite de Operator.
+Acestea sunt obligate prin contract sa mentina confidentialitatea datelor si sa le foloseasca exclusiv in scopul pentru care le-au fost furnizate.
+De asemenea, am putea dezvalui datele dumneavoastra cu caracter personal catre autoritatile publice centrale / locale, in urmatoarele cazuri exemplificativ enumerate:
+· pentru administrarea site-ului
+· in situatiile in care aceasta comunicare ar fi necesara pentru atribuirea de premii sau alte facilitati persoanelor vizate, obtinute ca urmare a participarii lor la diverse campanii promotionale organizate de catre {Denumire_Firma} prin intermediul site-ului;
+· pentru mentinerea, personalizarea si imbunatatirea site-ului si a serviciilor derulate prin intermediul lui
+· pentru efectuarea analizei datelor, testarea si cercetarea, monitorizarea tendintelor de utilizare si activitate, dezvoltarea caracteristicilor de siguranta si autentificarea utilizatorilor
+· pentru transmiterea de comunicari comerciale de marketing, in conditiile si limitele prevazute de lege
+· atunci cand dezvaluirea datelor cu caracter personal este prevazuta de lege etc.
+
+5. Transferul datelor cu caracter personal
+Datele cu caracter personal furnizate catre {Denumire_Firma} pot fi transferate in afara Romaniei, dar doar catre state din Uniunea Europeana.
+
+6. Drepturile de care beneficiati
+In conditiile prevazute de legislatia in materia prelucrarii datelor cu caracter personal, in calitate de persoane vizate, beneficiati de urmatoarele drepturi:
+· dreptul la informare – dreptul de a primi detalii privind activitatile de prelucrare efectuate de catre {Denumire_Firma}, conform celor descrise in prezentul document;
+· dreptul de acces la date dreptul de a obtine confirmarea din partea {Denumire_Firma} cu privire la prelucrarea datelor cu caracter personal, precum si detalii privind activitatile de prelucrare precum modalitatea in care sunt prelucrate datele, scopul in care se face prelucrarea, destinatarii sau categoriile de destinatari ai datelor, etc;
+· dreptul la rectificare – dreptul de a obtine corectarea, fara intarzieri justificate, de catre {Denumire_Firma} a datelor cu caracter personal inexacte/ nejustificate, precum si completarea datelor incomplete;
+· dreptul la stergerea datelor, fara intarzieri nejustificate, („dreptul de a fi uitat”) – se aplica anumite conditii; Este posibil ca, in urma solicitarii de stergere a datelor, {Denumire_Firma} sa anonimizeze aceste date (lipsindu-le astfel de caracterul personal) si sa continue in aceste conditii prelucrarea pentru scopuri statistice;
+· dreptul la restrictionarea prelucrarii, in anumite conditii;
+· dreptul la portabilitatea datelor – dreptul de a primi datele cu caracter personal intr-o modalitate structurata, folosita in mod obisnuit si intr-un format usor de citit, precum si dreptul ca aceste date sa fie transmise de catre {Denumire_Firma} catre alt operator de date, in masura in care sunt indeplinite conditiile prevazute de lege;
+· dreptul la opozitie
+– in ceea ce priveste activitatile de prelucrare se poate exercita prin transmiterea unei solicitari conform celor indicate mai jos;
+– in orice moment, din motive legate de situatia particulara in care se afla persoana vizata, ca datele care o vizeaza sa fie prelucrate in temeiul interesului legitim al {Denumire_Firma} sau in temeiul interesului public, cu exceptia cazurilor in care {Denumire_Firma} poate demonstra ca are motive legitime si imperioase care justifica prelucarea si care prevaleaza asupra intereselor, drepturilor si libertatilor persoanelor vizate sau ca scopul este constatarea, exercitarea sau apararea unui drept in instanta;
+– in orice moment, in mod gratuit si fara nicio justificare, ca datele care o vizeaza sa fie prelucrate in scop de marketing direct.
+· dreptul de a nu fi supus unei decizii individuale automatedreptul de a nu fi subiectul unei decizii luate numai pe baza unor activitati de prelucrare automate, inclusiv crearea de profiluri, care produce efecte juridice care privesc persoana vizata sau o afecteaza in mod similar intr-o masura semnificativa;
+· dreptul de a va adresa Autoritatii Nationale de supraveghere a Prelucrarii Datelor cu Caracter Personal sau instantelor competente, in masura in care considerati necesar.
+
+7. Confidentialitatea minorilor
+{Denumire_Firma} nu contacteaza cu buna stiinta sau nu colecteaza informatii de la persoane cu varsta sub 18 ani. Website-ul nu are ca scop solicitarea de informatii de orice fel de la persoane cu varsta sub 18 ani.
+Daca printr-o eroare intram in posesia unor astfel de informatii si suntem instiintati de acest lucru, vom obtine consimtamantul parental adecvat pentru a utiliza aceste informatii sau, in cazul in care nu este posibil, vom sterge informatiile de pe serverele noastre.
+8. Modificari in politica de confidentialitate
+Ne rezervam dreptul de a modifica aceasta politica de confidentialitate. In cazul unor modificari majore pe viitor vei fi instiintat pe email (daca este posibil) sau prin afisarea unui mesaj specific pe site.
+

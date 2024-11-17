@@ -1,0 +1,19 @@
+DECLARATIE DE CONFORMITATE
+_____________________ / din data 10.01.2011
+(numar de identificare produs/lot/data fabricatie)
+
+SC {Denumire_Firma} SRL, avand sediul social in {Adresa_Sediul_Social}, inregistrata la RC J40/123/2024 cu nr. J40, 
+CUI {CUI} , prin reprezentant legal {Nume} si {Prenume} in calitate de reprezentatul legal al firmei, 
+declaram pe propria raspundere, cunoscand prevederile art.292 Cod Penal cu privire la falsul in declaratii 
+si prevederile art. 5 din HG nr. 1022 / 2002 cu privire la regimul produselor si serviciilor care pot pune in 
+pericol viata, sanatatea, securitatea muncii si protectia mediului, faptul ca produsul / serviciul {Tip_Firma}, 
+{Cod_CAEN}, {Email_Firma}, {Telefon_Firma}, {URL_Site_Firma} (a se specifica toate datele de identificare) care face
+ obiectul acestei declaratii de conformitate nu pune în pericol viata, sanatatea si securitatea muncii, 
+ nu produce impact negativ asupra mediului si este în conformitate cu autorizatia de mediu (documentul normativ de 
+ referinta, norme UE, standard ISO, etc).
+
+SC {Denumire_Firma} SRL
+prin ___________
+({nume}, semnatura si stampila)
+
+N.b. ~ Acest model de declaratie de conformitate este unul orientativ
